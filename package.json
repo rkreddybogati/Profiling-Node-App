@@ -1,0 +1,29 @@
+{
+  "name": "profiling-node-app",
+  "version": "1.0.0",
+  "description": "Profiling Node App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rkreddybogati/Profiling-Node-App.git"
+  },
+  "keywords": [
+    "Memory",
+    "Profiling",
+    "Performance"
+  ],
+  "author": "RK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkreddybogati/Profiling-Node-App/issues"
+  },
+  "homepage": "https://github.com/rkreddybogati/Profiling-Node-App#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "fast-levenshtein": "^3.0.0"
+  }
+}
