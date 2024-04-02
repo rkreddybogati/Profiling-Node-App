@@ -1,4 +1,4 @@
-# Profiling Node App: Detect the memory uses of node app | Use of -inspect | Heapdump | Heap Snapshot
+# Profiling Node App: Detect the memory uses of node app | Use of -inspect | Heapdump | Heap Snapshot (Ref: https://medium.com/@svsh227/profiling-nodejs-application-detect-the-memory-uses-of-node-app-use-of-inspect-d3f6a723c513 )
 
 
 Today, We’ll learn how we can know our node app better, and how to detect how much memory our app is consuming.
