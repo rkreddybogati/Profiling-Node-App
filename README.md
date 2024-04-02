@@ -131,3 +131,7 @@ In the next blog, I will tell you how you can detect the memory leaks in your no
 Congratulations… You are becoming an expert in node.js.
 Thanks for reading…
 Keep reading… Keep getting…
+
+
+# Deep Dive
+https://medium.com/performance-engineering-for-the-ordinary-barbie/intro-to-memory-profiling-chrome-devtools-memory-tab-explained-5a99d3ba85d2 
